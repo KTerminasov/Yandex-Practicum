@@ -3,4 +3,6 @@
 
 - [Игра "Изгиб питона".](https://github.com/KTerminasov/the_snake)
 - Проект "Блогикум".
+- [Итоговый проект "Фудграм"](https://github.com/KTerminasov/foodgram-st)
+  
 
